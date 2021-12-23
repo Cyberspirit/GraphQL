@@ -1,2 +1,2 @@
 # GraphQL
-GraphQL Certification playground
+My GraphQL Certification Playground
