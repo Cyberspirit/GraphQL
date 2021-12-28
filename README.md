@@ -31,4 +31,4 @@ This will open up `localhost:3000` in your web browser.
 
 ## Getting Help
 
-For any issues or problems concerning the course content, please refer to the [Odyssey topic in our community forums](https://community.apollographql.com/tags/c/help/6/odyssey).
+For any issues or problems concerning the course content, send mail to [Ugochinyere.cyrine@gmail.com](Ugochinyere.cyrine@gmail.com).
